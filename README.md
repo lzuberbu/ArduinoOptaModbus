@@ -1,7 +1,7 @@
 # Arduino Opta Modbus Controller
 
 This project is a Modbus TCP controller running on **Arduino Opta**.
-It controls relays and digital/analog inputs and supports Docker-based backends.
+It controls relays and digital/analog inputs.
 
 
 ## Features
