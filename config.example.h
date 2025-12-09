@@ -33,6 +33,9 @@
  */
 #pragma once
 
+/**
+ * @brief Debug compiler flags
+ */
 //#define IDEBUG
 //#define IDEBUG2
 //#define IDEBUG_RELAY
