@@ -70,7 +70,7 @@
  * 
  * Used for Ethernet initialization.
  */
-#define MAC_ADDRESS { 0xA8, 0x61, 0x0A, 0x50, 0xA7, 0xD4 }
+#define MAC_ADDRESS { 0xAA, 0xBB, 0xCC, 0xDD, 0xEE, 0xFF }
 
 /**
  * @brief Hostname for network identification.
